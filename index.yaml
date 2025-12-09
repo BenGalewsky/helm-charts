@@ -3,7 +3,7 @@ entries:
   dask-gateway:
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-11-26T02:41:50.446596567Z"
+    created: "2025-12-09T14:34:40.113226-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 68fd5fb1839e02430f9cbef19b94b5d73515132b08fcf6e91b45fde87f2024f1
     home: https://gateway.dask.org/
@@ -17,7 +17,7 @@ entries:
     version: 0.0.1-0.dev.git.605.h93dfad4
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-11-25T22:16:00.092003457Z"
+    created: "2025-12-09T14:34:40.112075-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 1138784568d30b83b4a4ae10930339a763f8f6108b8bb20ba6f71d9ba45ff072
     home: https://gateway.dask.org/
@@ -31,7 +31,7 @@ entries:
     version: 0.0.1-0.dev.git.604.h9cf27df
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-11-25T15:14:46.701091394Z"
+    created: "2025-12-09T14:34:40.109304-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 36128c1610ccb412a4a9813569cf089bd283197d633ee3bfcbb40d26b412d395
     home: https://gateway.dask.org/
@@ -45,7 +45,7 @@ entries:
     version: 0.0.1-0.dev.git.603.h68d33c9
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-11-24T21:13:43.067973138Z"
+    created: "2025-12-09T14:34:40.107963-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 9f843dd3cb58413469ccaacaa8a2f26757cb91bcbf748ab6fe796fa48208158e
     home: https://gateway.dask.org/
@@ -59,7 +59,7 @@ entries:
     version: 0.0.1-0.dev.git.602.h83d706e
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-11-24T21:25:23.143022835Z"
+    created: "2025-12-09T14:34:40.106827-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: ea433b699601e8f08b5d7b4aa4596efc4ec0c1879191530094bcf2b5dda78f7d
     home: https://gateway.dask.org/
@@ -73,7 +73,7 @@ entries:
     version: 0.0.1-0.dev.git.602.h534ffbd
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-11-24T17:29:53.490286687Z"
+    created: "2025-12-09T14:34:40.104932-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 0dd72027a81bfce5c8dbd3f55f05127241af00d2a49771465692ac0f6a9a9c0d
     home: https://gateway.dask.org/
@@ -87,7 +87,7 @@ entries:
     version: 0.0.1-0.dev.git.602.h0df2654
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-11-24T19:33:33.914126532Z"
+    created: "2025-12-09T14:34:40.095378-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: fb895685c0acac6d0ab71a5a1e0e1869821f9172d711607ef98127f526c94ca9
     home: https://gateway.dask.org/
@@ -99,4 +99,21 @@ entries:
     urls:
     - https://bengalewsky.github.io/helm-charts/dask-gateway-0.0.1-0.dev.git.601.h9018ae9.tgz
     version: 0.0.1-0.dev.git.601.h9018ae9
-generated: "2025-11-26T02:41:50.443610391Z"
+  probe-design:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-12-09T14:34:40.113951-07:00"
+    description: A Helm chart for Probe Design Web Application
+    digest: 17918d3d7aab5b9566f35bc39dcae0fdaf2d267fdde5b1103554722f2523630b
+    keywords:
+    - django
+    - bioinformatics
+    - probe-design
+    maintainers:
+    - name: bengal1
+    name: probe-design
+    type: application
+    urls:
+    - https://bengalewsky.github.io/helm-charts/probe-design-0.1.0-rc.1.tgz
+    version: 0.1.0-rc.1
+generated: "2025-12-09T14:34:40.092981-07:00"
