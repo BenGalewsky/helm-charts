@@ -3,7 +3,7 @@ entries:
   dask-gateway:
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-12-09T16:21:32.718303-07:00"
+    created: "2025-12-10T07:39:31.686097-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 68fd5fb1839e02430f9cbef19b94b5d73515132b08fcf6e91b45fde87f2024f1
     home: https://gateway.dask.org/
@@ -17,7 +17,7 @@ entries:
     version: 0.0.1-0.dev.git.605.h93dfad4
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-12-09T16:21:32.717387-07:00"
+    created: "2025-12-10T07:39:31.685092-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 1138784568d30b83b4a4ae10930339a763f8f6108b8bb20ba6f71d9ba45ff072
     home: https://gateway.dask.org/
@@ -31,7 +31,7 @@ entries:
     version: 0.0.1-0.dev.git.604.h9cf27df
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-12-09T16:21:32.716384-07:00"
+    created: "2025-12-10T07:39:31.683388-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 36128c1610ccb412a4a9813569cf089bd283197d633ee3bfcbb40d26b412d395
     home: https://gateway.dask.org/
@@ -45,7 +45,7 @@ entries:
     version: 0.0.1-0.dev.git.603.h68d33c9
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-12-09T16:21:32.710852-07:00"
+    created: "2025-12-10T07:39:31.682462-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 9f843dd3cb58413469ccaacaa8a2f26757cb91bcbf748ab6fe796fa48208158e
     home: https://gateway.dask.org/
@@ -59,7 +59,7 @@ entries:
     version: 0.0.1-0.dev.git.602.h83d706e
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-12-09T16:21:32.709919-07:00"
+    created: "2025-12-10T07:39:31.681474-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: ea433b699601e8f08b5d7b4aa4596efc4ec0c1879191530094bcf2b5dda78f7d
     home: https://gateway.dask.org/
@@ -73,7 +73,7 @@ entries:
     version: 0.0.1-0.dev.git.602.h534ffbd
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-12-09T16:21:32.708927-07:00"
+    created: "2025-12-10T07:39:31.679947-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: 0dd72027a81bfce5c8dbd3f55f05127241af00d2a49771465692ac0f6a9a9c0d
     home: https://gateway.dask.org/
@@ -87,7 +87,7 @@ entries:
     version: 0.0.1-0.dev.git.602.h0df2654
   - apiVersion: v2
     appVersion: 2025.4.1-0.dev
-    created: "2025-12-09T16:21:32.707167-07:00"
+    created: "2025-12-10T07:39:31.671269-07:00"
     description: A multi-tenant server for deploying and managing Dask clusters
     digest: fb895685c0acac6d0ab71a5a1e0e1869821f9172d711607ef98127f526c94ca9
     home: https://gateway.dask.org/
@@ -102,7 +102,23 @@ entries:
   probe-design:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-09T16:21:32.719383-07:00"
+    created: "2025-12-10T07:39:31.687431-07:00"
+    description: A Helm chart for Probe Design Web Application
+    digest: 33fefa8686cc48a2cc553515985da0d53321d9b6e0deb72bac351f3bcca1e2d1
+    keywords:
+    - django
+    - bioinformatics
+    - probe-design
+    maintainers:
+    - name: bengal1
+    name: probe-design
+    type: application
+    urls:
+    - https://bengalewsky.github.io/helm-charts/probe-design-0.1.0-rc.3.tgz
+    version: 0.1.0-rc.3
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-12-10T07:39:31.687154-07:00"
     description: A Helm chart for Probe Design Web Application
     digest: 49001420f88de79d11e6f73101aa925784d4621d063a4af52433fea18e93bdbf
     keywords:
@@ -118,7 +134,7 @@ entries:
     version: 0.1.0-rc.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-12-09T16:21:32.718857-07:00"
+    created: "2025-12-10T07:39:31.686654-07:00"
     description: A Helm chart for Probe Design Web Application
     digest: 17918d3d7aab5b9566f35bc39dcae0fdaf2d267fdde5b1103554722f2523630b
     keywords:
@@ -132,4 +148,4 @@ entries:
     urls:
     - https://bengalewsky.github.io/helm-charts/probe-design-0.1.0-rc.1.tgz
     version: 0.1.0-rc.1
-generated: "2025-12-09T16:21:32.696582-07:00"
+generated: "2025-12-10T07:39:31.669125-07:00"
